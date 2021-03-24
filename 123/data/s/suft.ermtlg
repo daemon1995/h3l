@@ -1,0 +1,118 @@
+ZVSE2
+
+
+
+*?FU(OnAdventureMapRightMouseClick);
+*!IF:M0/4/^{~>suft_crtrs.def:12}^;
+*!CM:R0;
+!?FU(OnAdventureMapRightMouseClick);
+!!CM:P?y1/?y2/?y3;                      [y1, y2, y3, проверяем координаты клика мышки]
+!!VRv2:Cy1/y2/y3;                       [записываем в v2/v3/v4 координаты клика]
+*!SN:O?y1/?y2/?y3;                      [y1, y2, y3, проверяем координаты объекта и его вход (yellow square)]
+!!OBv2/v3/v4:H?y5 T?y6 U?y7;                 [y8, y7, узнаем есть ли измененная подсказка для объекта]
+!!FU|y6<>54:E;   
+
+*!FU(Univ.Secs.suft_Dl)&y6=104:Py1/y2/y3; [Если условия соблюдены, переводим координаты в функцию и выполняем]
+
+
+*?FU(Univ.Secs.suft_Dl);
+
+!!CM:R0;
+!!DL600:N^suft_ext.txt^;
+!!UN:J8/1/^suft_creatures.pac^;
+!!FU&-1:E;
+*!DL600:
+*!FU(suft_Dl):P;
+!!CM:A?y15/?y16;                        [y15, y16, записываем координаты клика мышкой]
+!!FU(suft_Dl):P600/y15/y16/y7;    [функция изменения координат диалога и его отрисовка по ПКМ]
+
+*!FU(DL_ShowPopup):P600;
+
+ !?FU(suft_Dl);
+ !!VRy1:Sx4;
+
+
+!!if&x4>122/x4<130;
+  !!re i/123/y1;
+    !!VRy3:Si%2;
+    !!VRy2&y3=0:+1;
+  !!en;
+    !!VRy1:-y2;
+    !!DL600:A1/4/y1/1;
+!!en;
+
+!!if&x4>129;
+  !!VRy1:-4;
+  !!VRy1&x4>149:-5;
+  !!VRy1&x4>167:-8;
+  !!VRy1&x4>173:-18;
+!!en;
+
+!!if&x4>163/x4<168;
+  !!VRy1&x4=164:S114;
+  !!VRy1&x4=165:S113;
+  !!VRy1&x4=166:S112;
+  !!VRy1&x4=167:S115;
+!!en;
+*!IF:L^%x4 / %y1^;
+!!DL600:A1/4/y1/1;
+ *!VRz1:S^%y1 - %y2^;
+!!SN:T^suft.scouting^/?z1;
+    !!DL600:A2/3/z1/1;
+
+; x1 - WoG dialog id
+; x2 - coord X (-1 center)
+; x3 - coord Y (-1 center)
+
+!!VRy1:Sv1;
+!!SN:E7510739/1/x1;
+!!VRy2:Sv1;
+!!if&y2<>0:;
+  !!UN:Cy2/4/?y3;
+  !!if&x2>=0:;  
+    !!UN:Cy3/32/4/?y4;
+    !!VRy5:Sy4 :2;
+    !!VRx2:-y5;
+    ; check for out of bounds X < 0
+    !!if&x2<0:;
+      !!VRx2:S0; 
+    !!el:  
+      ; check for out of bounds X > HD_X
+      !!UN:C4199496/2/?y6;
+      !!VRy7:Sy6 -16 -y4;
+      !!VRx2&x2>y7:Sy7;
+    !!en;
+    ; set x coord
+    !!UN:Cy3/24/4/x2;
+  !!en:;
+  !!if&x3>=0:;  
+    !!UN:Cy3/36/4/?y8;
+    !!VRy9:Sy8 :2;
+    !!VRx3:-y9;
+    ; check for out of bounds Y < 0
+    !!if&x3<0:;
+      !!VRx3:S0; 
+    !!el:  
+      ; check for out of bounds Y > HD_Y
+      !!UN:C4199503/2/?y10;
+      !!VRy11:Sy10 -16 -y8;
+      !!VRx3&x3>y11:Sy11;
+    !!en;    
+    ; set y coord
+    !!UN:Cy3/28/4/x3;  
+    !!SN:E5864096/1;                    [Останавливаем анимацию]
+    !!UN:Cy2/4/?v1;                     [v1 = находим наш диалог в памяти]
+    !!SN:E6245264/2/v1;                 [показываем окно]
+    !!SN:E5864272/1;                    [Возвращаем анимацию]
+    !!SN:E7518240/2/y2;                 [Уничтожаем HDlg]
+  !!en:;
+!!en:;
+!!VRv1:Sy1;
+
+ !?FU(OnKeyPressed_AdvMap)&x1=(KEY_F2);обновление диалога без перезагрузки игры
+  !!VRz1:S^suft_ext.txt^;
+  !!SN:E5620400/3/z1;
+  !!VRv2:Sv1+24;
+  !!UN:Cv2/4/1;
+  !!SN:E5624576/3/v1;
+  !!IF:L^done!^;
