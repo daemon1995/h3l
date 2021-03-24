@@ -1,0 +1,164 @@
+{
+    "sequences": [
+        {
+            "group": 0,
+            "frames": [
+                "cboar.dir\\00_00.png",
+                "cboar.dir\\00_01.png",
+                "cboar.dir\\00_02.png",
+                "cboar.dir\\00_03.png",
+                "cboar.dir\\00_04.png",
+                "cboar.dir\\00_05.png",
+                "cboar.dir\\00_06.png",
+                "cboar.dir\\00_07.png"
+            ]
+        },
+        {
+            "group": 1,
+            "frames": [
+                "cboar.dir\\01_00.png",
+                "cboar.dir\\01_01.png",
+                "cboar.dir\\01_02.png",
+                "cboar.dir\\01_03.png",
+                "cboar.dir\\01_04.png",
+                "cboar.dir\\01_05.png",
+                "cboar.dir\\01_06.png",
+                "cboar.dir\\01_07.png",
+                "cboar.dir\\01_08.png"
+            ]
+        },
+        {
+            "group": 2,
+            "frames": [
+                "cboar.dir\\02_00.png",
+                "cboar.dir\\02_01.png",
+                "cboar.dir\\02_02.png",
+                "cboar.dir\\02_03.png",
+                "cboar.dir\\02_04.png",
+                "cboar.dir\\02_05.png",
+                "cboar.dir\\02_06.png",
+                "cboar.dir\\02_07.png",
+                "cboar.dir\\02_08.png",
+                "cboar.dir\\02_09.png",
+                "cboar.dir\\02_10.png",
+                "cboar.dir\\02_11.png"
+            ]
+        },
+        {
+            "group": 3,
+            "frames": [
+                "cboar.dir\\03_00.png",
+                "cboar.dir\\03_01.png",
+                "cboar.dir\\03_02.png",
+                "cboar.dir\\03_03.png",
+                "cboar.dir\\03_04.png",
+                "cboar.dir\\03_05.png",
+                "cboar.dir\\03_06.png",
+                "cboar.dir\\03_07.png"
+            ]
+        },
+        {
+            "group": 4,
+            "frames": [
+                "cboar.dir\\04_00.png",
+                "cboar.dir\\04_01.png",
+                "cboar.dir\\04_02.png",
+                "cboar.dir\\04_03.png",
+                "cboar.dir\\04_04.png",
+                "cboar.dir\\04_05.png",
+                "cboar.dir\\04_06.png"
+            ]
+        },
+        {
+            "group": 5,
+            "frames": [
+                "cboar.dir\\05_00.png",
+                "cboar.dir\\05_01.png",
+                "cboar.dir\\05_02.png",
+                "cboar.dir\\05_03.png",
+                "cboar.dir\\05_04.png",
+                "cboar.dir\\05_05.png",
+                "cboar.dir\\05_06.png",
+                "cboar.dir\\05_07.png"
+            ]
+        },
+        {
+            "group": 7,
+            "frames": [
+                "cboar.dir\\07_00.png",
+                "cboar.dir\\07_01.png"
+            ]
+        },
+        {
+            "group": 8,
+            "frames": [
+                "cboar.dir\\08_00.png",
+                "cboar.dir\\08_01.png"
+            ]
+        },
+        {
+            "group": 9,
+            "frames": [
+                "cboar.dir\\09_00.png",
+                "cboar.dir\\09_01.png"
+            ]
+        },
+        {
+            "group": 10,
+            "frames": [
+                "cboar.dir\\10_00.png",
+                "cboar.dir\\10_01.png"
+            ]
+        },
+        {
+            "group": 11,
+            "frames": [
+                "cboar.dir\\11_00.png",
+                "cboar.dir\\11_01.png",
+                "cboar.dir\\11_02.png",
+                "cboar.dir\\11_03.png",
+                "cboar.dir\\11_04.png",
+                "cboar.dir\\11_05.png",
+                "cboar.dir\\11_06.png"
+            ]
+        },
+        {
+            "group": 12,
+            "frames": [
+                "cboar.dir\\12_00.png",
+                "cboar.dir\\12_01.png",
+                "cboar.dir\\12_02.png",
+                "cboar.dir\\12_03.png",
+                "cboar.dir\\12_04.png",
+                "cboar.dir\\12_05.png",
+                "cboar.dir\\12_06.png"
+            ]
+        },
+        {
+            "group": 13,
+            "frames": [
+                "cboar.dir\\13_00.png",
+                "cboar.dir\\13_01.png",
+                "cboar.dir\\13_02.png",
+                "cboar.dir\\13_03.png",
+                "cboar.dir\\13_04.png",
+                "cboar.dir\\13_05.png",
+                "cboar.dir\\13_06.png"
+            ]
+        },
+        {
+            "group": 20,
+            "frames": [
+                "cboar.dir\\20_00.png"
+            ]
+        },
+        {
+            "group": 21,
+            "frames": [
+                "cboar.dir\\21_00.png"
+            ]
+        }
+    ],
+    "type": 66,
+    "format": 1
+}
