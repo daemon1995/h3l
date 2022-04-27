@@ -1,9 +1,0 @@
-
-
-
-	#	600	-1	-1	500	475	4	-1		-1
-	Pcx	3	16	16	288	414	Suft_border.pcx	2048	
-	Def	1	20	20	34	34	iokay32.def	0	16	
-	Text	2	312	20	170	400		MedFont.fnt	7	0	1	8	
-	Pcx	4	20	20	280	405	suft_crtre.pcx	2048	
-	#
