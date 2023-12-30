@@ -1,0 +1,226 @@
+BINKW32.DLL|126976|3edc6b9eaea09fd8146270318a508fb9
+ifc20.dll|135168|dd54e8a0e0afe24fcc148fe613051f4e
+MSS32.DLL|328704|7dd1890506bd757a978cbecfe8d8529b
+Data\H3ab_ahd.vid|1632408|ba20a8e191a621dbff5aaace8f3eebbe
+Data\H3ab_bmp.lod|1645325|d45b5655841bf191b37a11badf7a85ae
+Data\H3bitmap.lod|102989431|02117ee710826a57b5dde552b315a75f
+Data\H3sprite.lod|64732421|77d2a7a760279cb89fd4c5252c3fa57a
+Data\Heroes3.snd|15247056|bc706e3de2c9ccd8a1065444882e3c51
+Data\VIDEO.VID|22508868|c164e90c9f0efbaf5389e1b8fdddf622
+Maps\A Viking We Shall Go Allied.h3m|47439|1e92400e7ce784afd26c7aca364c6a13
+Maps\A Viking We Shall Go.h3m|47404|37088d26577e8c3d07c7c3c77c99f46c
+Maps\A Warm and Familiar Place.h3m|9373|0c62cdeaeb59b1b7745b16abc53a27fc
+Maps\Adventures of Jared Haret.h3m|10315|b455d733c8de789e58b9e494e31ef1ed
+Maps\All for One.h3m|29429|b824d58fa0ff55e0711dd76ae526c8e7
+Maps\And One for All.h3m|12745|61d3cdacf8970c5c619252a85ffda5a7
+Maps\Arrogance Allied.h3m|11560|6e87e27444ded3e0cb5e55dbae075e55
+Maps\Arrogance.h3m|11543|92c2c72fadd43ab90787ac9cfda06081
+Maps\Ascension.h3m|16078|b5dbce8a1798c57f106ed026c388c6ed
+Maps\Back For Revenge - Allied.h3m|58112|0680cefc56dbf913093c2b8942814a7c
+Maps\Back For Revenge.h3m|58097|5e62508e9e76d7fd91b526a8aea8b928
+Maps\Barbarian Breakout.h3m|10034|a69ece1b43ff9815a30a01744d19d13d
+Maps\Barbarian BreakoutA.h3m|10123|be35034566b24472f5768e4481d438af
+Maps\Battle of the Sexes Allied.h3m|39594|816f95819ab3eccad869228045fda13d
+Maps\Battle of the Sexes.h3m|39552|38f8c4dece96167defd208cb40c19564
+Maps\Brave New World(Allies).h3m|41347|f4d0eea70b0702c24f612bfd1b7440ab
+Maps\Brave New World.h3m|41345|ec2d093e0157600cc9216e6387007e50
+Maps\Buried Treasure.h3m|26370|bce57df114e4cf83834adc197085cbe3
+Maps\Carpe Diem - Allied.h3m|29106|9806af2f8ba1a5c1fcc95094cc7343ec
+Maps\Carpe Diem.h3m|29078|cc51efef595c725557fe35b9c1a2b884
+Maps\Caught in the Middle.h3m|26350|a3055c5e53999947d81705becd000b3b
+Maps\Chasing a Dream.h3m|9054|9b5e6891725a3bde83a40b11f935a93a
+Maps\Crimson and Clover.h3m|22722|bc0b8f8ea9424893d469c754e583ce78
+Maps\Crimson and CloverA.h3m|22829|e48f1660c36d3fa1b8aecae213de218d
+Maps\Darwin's Prize(Allies).h3m|20696|cdc2e928982158e628ea9229ae274988
+Maps\Darwin's Prize.h3m|16675|6018e860ed62b1e0e18473486a70d766
+Maps\Dawn of War.h3m|18285|b833e65e91c320398babbe14e88fde59
+Maps\Dead and Buried.h3m|9852|aecbe93f52757fcc481522b94c082973
+Maps\Deluge.h3m|8185|3889f5186611ee1c0ede3802c8486875
+Maps\Divided Loyalties.h3m|32999|d869123e763cd3bb84cc01c27b0a9a43
+Maps\Divided LoyaltiesA.h3m|33078|1a2932fafd8a0facd81f05d30a4c9df0
+Maps\Dragon Orb.h3m|28051|511b394c64840f91e16e85b2b8758e6a
+Maps\Dragon Pass (Allies).h3m|27521|a61a790695ee36628f5f29f70d213f16
+Maps\Dragon Pass.h3m|27504|e38156a9414252000727598e13287985
+Maps\Dungeon Keeper.h3m|11771|15510947c5e1f9b9f91fb215383fe356
+Maps\Dwarven Gold.h3m|11277|36ad16bc2844c2589b1691cbd155ff83
+Maps\Dwarven Tunnels(Allies).h3m|27636|d1e03f345ba0949114f6b95a67b4913c
+Maps\Dwarven Tunnels.h3m|27620|19468db02ac04e6a4780eb7589d641d5
+Maps\Elbow Room(Allies).h3m|5011|c1f11c03888e5ae77b3f395d1e07ae28
+Maps\Elbow Room.h3m|4996|41f6ec3f425337bd0bdabb8c4d0e377c
+Maps\Emerald Isles.h3m|14600|4d2f246662402017b35837b8c325ba13
+Maps\Emerald IslesA.h3m|14618|e90258993e2845965747be048595af90
+Maps\Faeries.h3m|32659|4cdd1429ff94db4f8a5b66e971bc7a31
+Maps\For Sale.h3m|8434|929141206e981554f02b947174a4ce29
+Maps\Fort Noxis.h3m|11752|98bbf28feb1daca0f425748e140c0bb0
+Maps\Free for All.h3m|45364|1691d61099ed6004498b1104dc67c380
+Maps\Freedom.h3m|9055|168e61bf232026d1e5d60f6e66798170
+Maps\Gelea's Champions (Allies).h3m|34812|af74073a0db36f46f3bbbf1dd350637e
+Maps\Gelea's Champions.h3m|35073|c630cab742cb24dbdbb1bc7f32dc33db
+Maps\Goblins in the Pantry.h3m|19145|39cc400cc98626cb0a48998f8fc8abf6
+Maps\Golems Aplenty Allied.h3m|25890|c51849acc2b2e167ab75cd16e8059ddd
+Maps\Golems Aplenty.h3m|25877|5dcf2f0fd373dd0d02d602acce8f3863
+Maps\Good to Go.h3m|4982|a8cb63a382e3a88ff8be0be4045dfd1a
+Maps\Good Witch, Bad Witch.h3m|34835|82ca098443a752eaf8754ed2a8c5acf0
+Maps\Gorlam's Tentacle Swampland.h3m|20505|3bfb4553c6421a3d26c9396f0e8cb0f1
+Maps\Hatchet Axe and Saw.h3m|17049|e700597ad691ad627d0d2648ed87cbe2
+Maps\Heroes of Might not Magic Allied.h3m|32417|006c87e76a671feebc960c75d85172ae
+Maps\Heroes of Might not Magic.h3m|32408|969ad083aa9db6fb0130913d7ab6a637
+Maps\Hoard(Allies).h3m|33156|273e85859c3aa5899993dcd63bae1c49
+Maps\Hoard.h3m|33161|46b9f3f9d6c9fa2f181c57efd574788f
+Maps\Hold the middle.h3m|24849|f84fc2198ac9685414ebb9ba7232d973
+Maps\Irrational Hostility.h3m|8914|4b816c29405a580005003fd1afdaf424
+Maps\Island King Allied.h3m|35785|7bc2179d70286035742be6e5c48204bb
+Maps\Island King.h3m|35766|5fea1ebd09bd709de66bf84cb8fde3f4
+Maps\Island of Fire.h3m|24425|089a8777542cc5bc6a2e1d15b16d6ae7
+Maps\Islands and Caves.h3m|39267|c77b3c7e54d6a234ac05d8fac37d485b
+Maps\Jihad.h3m|8723|800e73fb04010977e690e7df88907a97
+Maps\Judgement Day.h3m|5059|3862fc9623de523e501f22b58bcc38dd
+Maps\Just A Visit.h3m|18234|c1ca9c010e31e3a97463aa823069f051
+Maps\Key to Victory.h3m|8453|ea77e419212404b2882156f11de8d782
+Maps\King of Pain.h3m|21366|068ca94edd1bd57adf8a001f797396a3
+Maps\Kingdom for sale(allies).h3m|37792|23a32c2f99f54bfdcbb992d0f029963c
+Maps\Kingdom for sale.h3m|37779|87c04d5d717026a0379f1e057078a5f8
+Maps\Knee Deep in the Dead.h3m|6909|ed7e482d57723bb037c8534c274a7b1a
+Maps\Knight of Darkness.h3m|28058|585491df920534d683dd838659f4e4ba
+Maps\Land of Titans (Allied).h3m|49011|de1a559df0bafbdf4f2f3858f5bdcf2c
+Maps\Land of Titans.h3m|49025|b5ca1b7c0ca580c5b79a63aaaf7ba5cd
+Maps\Last Chance Allies.h3m|10041|90a4a4bfe999bbe33d911c050ec9b9ef
+Maps\Last Chance.h3m|10006|e7ed523d459fe0022b2b58aec27897df
+Maps\Loss of Innocence(Allies).h3m|30371|0441cfbfb9a7c4ae37cc6fff13a4e1e7
+Maps\Loss of Innocence.h3m|30307|3a73ea620330781c5b20f2655c051417
+Maps\Manifest Destiny.h3m|9848|8c2ccdbc127c9d101bc08e9abcc898f1
+Maps\Marshland Menace.h3m|25789|a16cd6b06560e1d7de23b052a068cae2
+Maps\Meeting in Muzgob(Allies).h3m|32883|bda9ee5ba00c7f800d8ce0343f3b9d32
+Maps\Meeting in Muzgob.h3m|32886|2206bd8653c19726ea2df36e8aaa1d7e
+Maps\Merchant Princes Allied.h3m|16491|0ddf677e18b26ae1d946013986b5628e
+Maps\Merchant Princes.h3m|16472|005fcee2c65200364d85e43b81337eaa
+Maps\Middletown.h3m|41558|70a7683316597e0881f732cc0a7dd9ca
+Maps\Monk's Retreat Allied.h3m|50601|56333244c33f3fed10387e8c35838063
+Maps\Monk's Retreat.h3m|50575|5359f2ea1ff8d0c8ace5f522a7078552
+Maps\Myth and Legend.h3m|123343|ef51e9b6ec1740b7c8c61d4f8284028a
+Maps\Noahs Ark.h3m|38907|a6846d75f0b976ee08b18a8a0818d7b2
+Maps\One Bad Day - Allied.h3m|21582|fe4cfb248483334c39f70e299905e46f
+Maps\Overthrow Thy Neighbors.h3m|27119|38ff0349cc6df83e15150f3ec03e40a3
+Maps\Pandora's Box .h3m|122892|bf8bcc1bd2c66b7a3c925d1e30bd4e58
+Maps\Peaceful Ending - Allied.h3m|44116|cff8e036ff2f1517c55b299d79b04d6a
+Maps\Peaceful Ending.h3m|44140|79fb81351d6498fc36808a10b3c190d9
+Maps\Peacemaker.h3m|15333|2fa69e4203587b4f0e5f50de54170365
+Maps\Pestilence Lake Allies.h3m|31135|36809c6a57bb0e6850131fa1918dd435
+Maps\Pestilence Lake.h3m|31236|c85818c9b4147a268a9a69a64b873e2d
+Maps\Pirates.h3m|13910|0bcb79582848d1da547decae0263d1a5
+Maps\Race for Ardintinny.h3m|65306|e2d739289af453327c76b531663bde37
+Maps\Race for the Town.h3m|17841|637d1190e9a1d6b7c647eb8bd4eacc42
+Maps\Ready or Not.h3m|24464|4d3b9642f79061ff4cd939547ca8bc78
+Maps\Realm of Chaos.h3m|35429|c9912e8d40af1504b7251672e14a7558
+Maps\Realm of ChaosA.h3m|35456|78ba647dbf7392b53abf3ec782dbe057
+Maps\Rebellion.h3m|18107|c6c07fc27670181c2b2468e30a6cf412
+Maps\Reclamation Allied.h3m|53450|1507c4bf104df67f3bd85b76fe648ff1
+Maps\Reclamation.h3m|53445|472ecd3b655b56f4c73943b3f5f84d6f
+Maps\Rediscovery.h3m|34429|41f736c9a301deee206f6df45d438597
+Maps\Resource War Allies.h3m|22021|42d30e3e5c2d44bd4d1555bdb4c0f474
+Maps\Resource War.h3m|22012|c386920b130985490472aedab3b6215a
+Maps\Rise of the Phoenix Allied.h3m|47704|4c08c36b1a5a3da9eb02de6025589ab4
+Maps\Rise of the Phoenix.h3m|47680|0095f8183ed17b4c9c54dc800d2a16f1
+Maps\Rumble in the Bogs.h3m|22134|d14d4c25ddf738a2486a2e0c93af0358
+Maps\Rumble in the BogsA.h3m|22141|813641091f6e83e495f4a741a5add12c
+Maps\Sands of Blood.h3m|7788|5bc1932ba46c59f3e97e1f303d405526
+Maps\Sangraal's Thief Allied.h3m|30471|60e69bc18be7ae475b9595a6efba50c4
+Maps\Sangraal's Thief.h3m|30451|81f844f608a15099305616016049df39
+Maps\Search for the Grail.h3m|20898|520767bd187eb30b46e625450edf6e21
+Maps\Serpents Treasure.h3m|62019|ed3b14ca54b1de9352f2dfbe3d36c31a
+Maps\Shadow Valleys.h3m|22051|7ef2525e917e53ebbcc3b4a002145404
+Maps\South of Hell (Allies).h3m|41801|a43cbbd12ae64a3fb845f688403123e7
+Maps\South of Hell.h3m|41845|46cff9bbccd27a0c41a0bbe11feb9c03
+Maps\Southern Cross.h3m|39360|a31c9e8f05355c2aa5be4ca02710bcb5
+Maps\Step by Step (Allies).h3m|27447|8bf785d666e0cbbe54cfb6cce7aeae40
+Maps\Step by Step.h3m|27437|3f8504ddbed203464ef8720fe4c0f423
+Maps\Tale of two lands (Allies).h3m|73233|04c6adc9615db023d708694f4f1b3953
+Maps\Tale of two lands.h3m|73170|09d7744ed9cb45e3e2a15a0c70d190c0
+Maps\Terrible Rumor.h3m|11401|8513963c2043a9e6f27713d61871c357
+Maps\The Battle of Daeyan's Ford.h3m|51588|eb2ef35f9855c6daf4df722696c4ebe0
+Maps\The Challenge.h3m|20840|271197c50da9e30d1893480136d95304
+Maps\The Five Rings.h3m|50272|56fb3e072460a83427b48f21aee1ad7d
+Maps\The Gauntlet.h3m|48971|550c3f2cc273dbca0bec619bae48eee2
+Maps\The Great Race.h3m|21701|703eeac7cdfdd5e8bf092799826eef9f
+Maps\The Mandate of Heaven.h3m|70517|77b64b9641b99fa7b6311369ec117816
+Maps\The Newcomers.h3m|15928|b308e1445ff8151306a779fc4316e7e1
+Maps\Thousand Islands (allies).h3m|50765|81c3d69504ea80b3ea53ed5b457b6e5b
+Maps\Thousand Islands.h3m|50750|a90687dbf35c09cd4756f68261f003e1
+Maps\Time's Up.h3m|11103|cc64d2d50b2d1291446c9d0b6b689d0e
+Maps\Titans Winter.h3m|30374|31139e1af1b186a0f590c8d3a422c678
+Maps\Too Many Monsters.h3m|7569|fab26a50a47117a502c55fc981d4d63e
+Maps\Tovar's Fortress (Allies).h3m|29620|dfb87190349408daed9b6e80c87477cd
+Maps\Tovar's Fortress.h3m|29605|7e2a0ae3dd1cdc8b89485a01bb6dbfac
+Maps\Treasure Hunt.h3m|19838|83e1c98a1b10c525a8874454e884b40c
+Maps\Tutorial.tut|6152|3e85a2411a64bd2ff4179f74173a1aeb
+Maps\Twins.h3m|12394|22e16ae524a64dcc8f1d725b27cadb29
+Maps\Undead Unrest.h3m|27057|773dfefa37efdd33cf0b911e02ddad2c
+Maps\Unexpected Inheritance.h3m|30704|8ff04f51aee40116add52ee5640c0f62
+Maps\Unholy Quest.h3m|53956|2ab02a0ff7d8df0e9cad118c80499a45
+Maps\Valleys of War.h3m|32307|95c8795a6a31b08267821ac5403c7c21
+Maps\Vial of Life.h3m|30252|0f63573b35d4591aa856dc33b660c247
+Maps\War of the Mighty (Allies).h3m|75689|948a59b834147fe35d5220c199256243
+Maps\War of the Mighty.h3m|75658|fea4214cce91b9fedb6a63d5db2d74c8
+Maps\Warlords.h3m|25787|5a4e642167b9188d31fe05b52f05384e
+Maps\WarlordsA.h3m|25966|6661511bb52a10977609b72a295024fd
+Maps\Warmongers.h3m|49436|ed64069bf8287df9585eb26be6f070bd
+Maps\When Dragons Clash.h3m|25227|7ebfec78491f3a54679f4f747f7bf02b
+Maps\Wings of War.h3m|14064|7c3496591bcf76d3b70ac8ee157ac6e5
+Maps\Xathras Prize.h3m|45663|c8e3f89ddc8dfcafce807947115c9e82
+MP3\AITheme0.mp3|746847|b6aa6d8b3099cda093df41a71941a00b
+MP3\AITHEME1.MP3|834834|f628a9fe8a6b46692d082d8b8db46ebb
+MP3\AITHEME2.MP3|1870662|3c37890bad68863766aa445d93e175b2
+MP3\BladeABCampaign.mp3|2245149|98c3a094ae7f63701cbeff24cfbc731a
+MP3\BladeDBCampaign.mp3|900075|057e1ee186842a0377d5353cfb93a6f7
+MP3\BladeDSCampaign.mp3|920219|06857fb42bd238ad8fdcf419d456d9ba
+MP3\BladeFLCampaign.mp3|768917|de3d22b254c8224507f77096b6318576
+MP3\BladeFWCampaign.mp3|861338|8153dc4c3288d74e7d4e6fad49e534ab
+MP3\BladePFCampaign.mp3|1120839|8aadea742d3229c9436a85c64ce95c1a
+MP3\CampainMusic01.mp3|759357|55d565ec4f2ddd179c01ac6bd96f0e78
+MP3\CampainMusic02.mp3|1138410|4db8cfd7a7842e125beadca13278737c
+MP3\CampainMusic03.mp3|869862|4eb3570b1c79f8e8e2781a9f3d7be4c1
+MP3\CampainMusic04.mp3|689718|dc48bc01bb5e7d30c895155c56dfd58e
+MP3\CampainMusic05.mp3|684714|c8f09470e094ddd724163a331f526bc4
+MP3\CampainMusic06.mp3|708483|b377b532bd36ebff1d89e2110acf1a56
+MP3\CampainMusic07.mp3|688467|06c2a6fab4ecba9e74c3ec154788980e
+MP3\CampainMusic08.mp3|803976|a3bd9b2106da4f0d3e4b78dc8d00479e
+MP3\CampainMusic09.mp3|781041|489cc90ceec3162d2968e4888ab5a60a
+MP3\CampainMusic10.mp3|1121257|9070e001c45e886ed9dda7117486c18f
+MP3\CampainMusic11.mp3|1616121|3e658e27c7a7257bc2081adbf1020a74
+MP3\COMBAT01.MP3|2710500|8461a4029d815ac9df8eeb2f11fa0854
+MP3\COMBAT02.MP3|2566218|7a213dd7b918c6f43cdf534bb0f05872
+MP3\COMBAT03.MP3|2288496|d477068b395326e9811a9bb8d254e76e
+MP3\COMBAT04.MP3|3111654|ac4cb431cfda3346e90b1a383e92436f
+MP3\CstleTown.mp3|2486154|fd0166531340ab7a57550012c3b486dd
+MP3\Defend Castle.mp3|154707|4deb202a5f2075ce6e27a77112d09081
+MP3\DIRT.MP3|2034960|e852479964592a89a07f4703bcfb4c53
+MP3\DUNGEON.MP3|2190084|303389d2b9ad9f73f6b601d83f4da4de
+MP3\ElemTown.mp3|1342357|32320130b2c72d8cb8d84dd3b57c4fd6
+MP3\EvilTheme.mp3|1504536|9b2e392e96220812cbc86e0789936615
+MP3\FortressTown.mp3|1902354|9eddce8242d9668edc9ae3f844a4cb22
+MP3\GoodTheme.mp3|1241826|07e2a382e4cecb8956d0ad46aff43ebb
+MP3\GRASS.MP3|1946139|92e38eb2975274f4f97b257746c58a8f
+MP3\InfernoTown.mp3|2193837|96b947f3bae61beb3a8c28395e6eb5a3
+MP3\LAVA.MP3|1802274|8ba29cce044e5cc1868b686a56355690
+MP3\LoopLepr.mp3|81315|010e59eb4c49c603e0cfc0eb739dafb9
+MP3\Lose Campain.mp3|361539|336e9dd07bee4c2fc3c63b6faa1ea935
+MP3\LoseCastle.mp3|78396|bd42c8967f4678cde304b51a3c9c0d19
+MP3\LoseCombat.mp3|113424|2ad756d8fc24e48406d2f163879c654c
+MP3\MAINMENU.MP3|1186782|7989290eab056518055957617ce3c3d1
+MP3\necroTown.mp3|2456547|100be3f46b38c4a5add11c3c4aafc2f8
+MP3\NeutralTheme.mp3|1599195|1d35d81cdc402f60683fa5d1595875e8
+MP3\RAMPART.MP3|2664630|4a937d6bfa0bf0e60feab44117d85bf2
+MP3\Retreat Battle.mp3|103833|ed235a592f3c4328847aac34744aedb2
+MP3\ROUGH.MP3|2159643|4410c4bbc4b023f0a084c86f2441d030
+MP3\SAND.MP3|1939884|63b8bf8cd19c5c7fb09ecb67ba056e05
+MP3\SecretTheme.mp3|1122147|eb7a9863f2c4ff0d5fe84d5871fdba6d
+MP3\SNOW.MP3|1951977|67a5b7dbc6b7437f42270c0ca5395321
+MP3\StrongHold.mp3|2252634|4d147272a99627b74fbf5148cab5522c
+MP3\Surrender Battle.mp3|82149|7760ef51caf3770b11f7f83842567a50
+MP3\SWAMP.MP3|2355216|820f1b60c6f6846cd92cd59ea51c11b6
+MP3\TowerTown.mp3|3616641|b5447e9427a0e05cf588759042e65ed2
+MP3\UltimateLose.mp3|244779|ad758c0aa59922c05bb4a23f219ccff5
+MP3\Underground.mp3|1839387|263dfd4520d50cb48a81a090b2d83d17
+MP3\WATER.MP3|1826460|ffdd6323c8c83055d35efca3424135ed
+MP3\Win Battle.mp3|87987|29900da59b1d31cde5cf767814f5fa75
+MP3\Win Scenario.mp3|1182195|209ab68210fe64e5e17fcd7d69dc32fa
